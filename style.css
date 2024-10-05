@@ -42,11 +42,6 @@ h2 {
   color: var(--brown800);
 }
 
-h3 {
-  color: var(--rose800);
-  padding-bottom: 1rem;
-}
-
 /* header */
 img {
   width: 100%;
@@ -117,6 +112,11 @@ td {
   background: var(--rose50);
   padding: 1.5rem;
   border-radius: 0.75rem;
+}
+
+#preparation h2 {
+  color: var(--rose800);
+  padding-bottom: 1rem;
 }
 
 /* footer */

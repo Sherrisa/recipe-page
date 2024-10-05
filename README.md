@@ -11,7 +11,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -41,8 +40,3 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Useful resources
 
 - [How to Add Bottom Border to Table Row](https://www.youtube.com/watch?v=_JV5rMoPCaM) - This helped me with the styling of the table.
-
-## Author
-
-- Website - [Sherrisa Classon](https://www.sherrisa.com/)
-- Frontend Mentor - [@Sherrisa](https://www.frontendmentor.io/profile/Sherrisa)
